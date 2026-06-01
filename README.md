@@ -1,24 +1,25 @@
 # Projeto Engenharia de Software (não nomeado)
 > Em desenvolvimento
 
-* Github Project: https://github.com/users/ryanmferreira/projects/5
+[Github Project](https://github.com/users/ryanmferreira/projects/5)
 
-*Repositórios:*
+## Repositórios:
 * Documentation: https://github.com/ryanmferreira/software-engineering-docs
 * Front-end: https://github.com/ryanmferreira/software-engineering-web
 * Back-end: https://github.com/ryanmferreira/software-engineering-api
 
 ---
 
-## Ambiente de desenvolvimento
+### Ambiente de desenvolvimento
 
 | Name        | Version         |
 | ----------- | --------------- |
 | Node.js     | v24             |
 | Angular     | Rolling Release |
 | OpenJDK     | v25             |
-| PostgreSQL  | v18             |
 | Spring Boot | v4.0.6          |
+| PostgreSQL  | v18             |
+| Git         | -               |
 
 ---
 
