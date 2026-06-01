@@ -1,6 +1,13 @@
 # Projeto Engenharia de Software (não nomeado)
 > Em desenvolvimento
 
+* Github Project: https://github.com/users/ryanmferreira/projects/5
+
+*Repositórios:*
+* Documentation: https://github.com/ryanmferreira/software-engineering-docs
+* Front-end: https://github.com/ryanmferreira/software-engineering-web
+* Back-end: https://github.com/ryanmferreira/software-engineering-api
+
 ---
 
 ## Ambiente de desenvolvimento
