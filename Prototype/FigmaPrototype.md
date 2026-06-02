@@ -1,1 +1,3 @@
-[Prototype Link](https://www.figma.com/design/PQCGEIFfvzJrZS6BRIu6s8/political-awareness-sketch?node-id=0-1&t=gnh3qaENle94H619-0)
+# Political Awareness Prototype
+
+[Figma Prototype Link](https://www.figma.com/design/PQCGEIFfvzJrZS6BRIu6s8/political-awareness-sketch?node-id=0-1&t=gnh3qaENle94H619-0)
