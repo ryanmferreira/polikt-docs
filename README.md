@@ -1,6 +1,6 @@
-# Projeto de Engenharia de Software
+# Projeto de Engenharia de Software (nome a ser definido)
 >
-> Status: Em Desenvolvimento
+> Status: A iniciar desenvolvimento
 
 Aplicação web voltada para consciêntização política, permitindo que os usuários se informem sobre funções públicas, cargos políticos e suas responsabilidades, promovendo uma participação mais ativa na sociedade.
 
@@ -34,11 +34,14 @@ Aplicação web voltada para consciêntização política, permitindo que os usu
 | :---                    | :---              |
 | Ryan Ferreira           | Backend, Database |
 | Murilo Andrade          | Frontend          |
-| Moisés Lima             | Frontend          |
+| Moisés Lima             | Analista          |
 | Pedro Aguiar            | -                 |
 | Miguel Fredo            | -                 |
 
+---
+
 ### Conceito de pronto da equipe
+
 A funcionalidade deverá apresentar:
 - Sua totalidade concluída (relativo ao backlog) de forma satisfatória;
 - Responsividade, apresentando um bom tempo de resposta;
