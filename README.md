@@ -1,4 +1,4 @@
-# Projeto de Engenharia de Software (nome a ser definido)
+# Polikt
 >
 > Status: A iniciar desenvolvimento
 
