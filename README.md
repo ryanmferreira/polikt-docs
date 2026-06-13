@@ -25,6 +25,7 @@ Aplicação web voltada para consciêntização política, permitindo que os usu
 | **OpenJDK**             | `v25`             | Ambiente de Execução (Backend)        |
 | **Spring Boot**         | `v4.0.6`          | Framework da API REST (Java)          |
 | **PostgreSQL**          | `v18.x`           | Sistema Gerenciador de Banco de Dados |
+| **Apache Maven**        | `v3.9.x+`         | Ferramenta de automação de build      |
 
 ---
 
