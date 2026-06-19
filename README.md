@@ -71,3 +71,7 @@ Para que uma funcionalidade ou tarefa contida no backlog seja considerada oficia
 1. **Totalidade do Escopo:** Implementação integral de todos os requisitos e critérios de aceitação definidos na respectiva issue ou card.
 2. **Desempenho e Usabilidade:** Apresentação de interface responsiva e tempos de resposta adequados às diretrizes do projeto.
 3. **Peer Review:** O código e a respectiva funcionalidade devem ser obrigatoriamente testados e validados por um integrante diferente do autor original do artefato.
+
+## Protótipo do projeto (Figma)
+
+[Informações do protótipo](prototype/figma-prototype.md)
