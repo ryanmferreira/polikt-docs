@@ -16,7 +16,7 @@ Atualmente, o projeto possui como foco o desenvolvimento para dispositivos móve
 | :--------------- | :---------------------------------------------------------- | :------------------------------------------------------ |
 | **Documentação** | [polikt-docs](https://github.com/ryanmferreira/polikt-docs) | Central de artefatos, diagramas e planejamento.         |
 | **Mobile**       | [polikt-expo](https://github.com/ryanmferreira/polikt-expo) | Aplicativo mobile desenvolvido com Expo e React Native. |
-| **Back-End**     | [polikt-api](https://github.com/ryanmferreira/polikt-api)   | API REST desenvolvida em Java com Spring Boot.          |
+| **Back-End**     | [polikt-spring](https://github.com/ryanmferreira/polikt-spring)   | API REST desenvolvida em Java com Spring Boot.          |
 
 ---
 
@@ -35,7 +35,7 @@ Atualmente, o projeto possui como foco o desenvolvimento para dispositivos móve
 
 ## Ferramentas de Desenvolvimento Recomendadas (IDEs)
 
-A equipe poderá optar por diferentes ambientes de desenvolvimento, de acordo com a camada do projeto.
+A equipe poderá optar por diferentes ambientes de desenvolvimento de sua preferência, de acordo com a camada do projeto.
 
 ### Visual Studio Code
 
@@ -50,6 +50,8 @@ Para os integrantes que utilizarem o [VS Code](https://code.visualstudio.com/), 
 
 - **Java:** [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 - **Spring Boot:** [Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack)
+- **Bruno:** [Bruno](https://marketplace.visualstudio.com/items?itemName=bruno-api-client.bruno)
+- **PostgreSQL:** [PostgreSQL](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql)
 
 ### Ecossistema JetBrains
 
@@ -66,9 +68,9 @@ Para os integrantes que utilizarem o [VS Code](https://code.visualstudio.com/), 
 | :----------------- | :----------------------- |
 | **Ryan Ferreira**  | Full Stack Developer     |
 | **Murilo Andrade** | Front-end Developer      |
-| **Moisés Lima**    | Product Owner            |
-| **Pedro Aguiar**   | -                        |
-| **Miguel Fredo**   | -                        |
+| **Moisés Lima**    | Front-end Developer      |
+| **Pedro Aguiar**   | ~                        |
+| **Miguel Fredo**   | ~                        |
 
 ---
 
@@ -76,9 +78,10 @@ Para os integrantes que utilizarem o [VS Code](https://code.visualstudio.com/), 
 
 Para que uma funcionalidade ou tarefa contida no backlog seja considerada oficialmente concluída, ela deve cumprir os seguintes critérios estabelecidos:
 
-1. Totalidade do Escopo: Implementação integral de todos os requisitos e critérios de aceitação definidos na respectiva issue ou card.
-2. Desempenho e Usabilidade: Apresentação de interface responsiva e tempos de resposta adequados às diretrizes do projeto.
-3. Peer Review: O código e a respectiva funcionalidade devem ser obrigatoriamente testados e validados por um integrante diferente do autor original do artefato.
+1. **Totalidade do Escopo:** Implementação integral de todos os requisitos e critérios de aceitação definidos na respectiva issue ou card.
+2. **Desempenho e Usabilidade:** Apresentação de interface responsiva e tempos de resposta adequados às diretrizes do projeto.
+3. **Peer Review:** O código e a respectiva funcionalidade devem ser obrigatoriamente testados e validados por um integrante diferente do autor original do artefato.
+
 ---
 
 ## Protótipo do Projeto (Figma)
