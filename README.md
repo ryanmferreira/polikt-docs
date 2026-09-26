@@ -18,7 +18,7 @@
 
 </div>
 
-> **Status:** Em fase de planejamento / Desenvolvimento a iniciar
+> **Status:** Em desenvolvimento
 
 O Polikt é um aplicativo mobile voltado para a conscientização política, permitindo que os usuários se informem sobre funções públicas, cargos políticos e suas responsabilidades, promovendo uma participação mais ativa na sociedade.
 
