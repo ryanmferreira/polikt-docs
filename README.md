@@ -1,4 +1,22 @@
+<div align="center">
+
 # Polikt
+
+**Uma plataforma de educação política e conscientização cívica.**
+
+[![Status](https://img.shields.io/badge/Status-Em_Planejamento-yellow?style=for-the-badge)](https://github.com/ryanmferreira/polikt-docs)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+
+<br/>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
 
 > **Status:** Em fase de planejamento / Desenvolvimento a iniciar
 
@@ -12,24 +30,24 @@ Atualmente, o projeto possui como foco o desenvolvimento para dispositivos móve
 
 ## Repositórios do Ecossistema
 
-| Componente       | Link do Repositório                                         | Descrição                                               |
-| :--------------- | :---------------------------------------------------------- | :------------------------------------------------------ |
-| **Documentação** | [polikt-docs](https://github.com/ryanmferreira/polikt-docs) | Central de artefatos, diagramas e planejamento.         |
-| **Mobile**       | [polikt-expo](https://github.com/ryanmferreira/polikt-expo) | Aplicativo mobile desenvolvido com Expo e React Native. |
+| Componente       | Link do Repositório                                              | Descrição                                               |
+| :--------------- | :---------------------------------------------------------------- | :------------------------------------------------------ |
+| **Documentação** | [polikt-docs](https://github.com/ryanmferreira/polikt-docs)       | Central de artefatos, diagramas e planejamento.         |
+| **Mobile**       | [polikt-expo](https://github.com/ryanmferreira/polikt-expo)       | Aplicativo mobile desenvolvido com Expo e React Native. |
 | **Back-End**     | [polikt-spring](https://github.com/ryanmferreira/polikt-spring)   | API REST desenvolvida em Java com Spring Boot.          |
 
 ---
 
 ## Ambiente de Desenvolvimento e Stack
 
-| Tecnologia / Ferramenta | Versão / Release | Escopo / Camada                       |
-| :---------------------- | :--------------- | :------------------------------------ |
-| **Node.js**             | `v24.x`          | Ambiente de Execução (Front-end)      |
-| **Expo**                | `v57`            | Framework (TypeScript / React Native) |
-| **OpenJDK**             | `v25`            | Ambiente de Execução (Back-end)       |
-| **Spring Boot**         | `v4.0.x`         | Framework da API REST (Java)          |
-| **PostgreSQL**          | `v18.x`          | Sistema Gerenciador de Banco de Dados |
-| **Apache Maven**        | `v3.9.x`         | Ferramenta de automação de build      |
+| Tecnologia / Ferramenta  | Versão / Release | Escopo / Camada                       |
+| :----------------------- | :--------------- | :------------------------------------ |
+| **Node.js**              | `v24.x`          | Ambiente de Execução (Front-end)      |
+| **Expo**                 | `v57`            | Framework (TypeScript / React Native) |
+| **OpenJDK**              | `v26`            | Ambiente de Execução (Back-end)       |
+| **Spring Boot**          | `v4.1.x`         | Framework da API REST (Java)          |
+| **PostgreSQL**           | `v18.x`          | Sistema Gerenciador de Banco de Dados |
+| **Apache Maven**         | `v3.9.x`         | Ferramenta de automação de build      |
 
 ---
 
@@ -69,8 +87,8 @@ Para os integrantes que utilizarem o [VS Code](https://code.visualstudio.com/), 
 | **Ryan Ferreira**  | Full Stack Developer     |
 | **Murilo Andrade** | Front-end Developer      |
 | **Moisés Lima**    | Front-end Developer      |
-| **Pedro Aguiar**   | ~                        |
 | **Miguel Fredo**   | ~                        |
+| **Pedro Aguiar**   | 404                      |
 
 ---
 
